@@ -1,5 +1,5 @@
 # Data Analytics
-## Oil vs Dollar Value
+Oil vs Dollar Value![alt text](https://thumbs.dreamstime.com/b/machine-learning-vector-banner-word-line-icon-machine-learning-vector-banner-word-line-icon-vector-background-117806401.jpg)
 1. **Energy Information Administration**
 *http://www.eia.gov/oil_gas/petroleum/data_publications/wrgp/mogas_history.html*
 **Data 4: Midgrade Conventional**
