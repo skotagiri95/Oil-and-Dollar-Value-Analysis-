@@ -1,19 +1,20 @@
 # Data Analytics
 ## Oil vs Dollar Value
-Energy Information Administration
-http://www.eia.gov/oil_gas/petroleum/data_publications/wrgp/mogas_history.html
-Data 4: Midgrade Conventional
+1. **Energy Information Administration**
+*http://www.eia.gov/oil_gas/petroleum/data_publications/wrgp/mogas_history.html*
+**Data 4: Midgrade Conventional**
 
-"www.macrotrends.net".
-US Dollar Index 43 years
+2. **US Dollar Index 43 years**
+*"www.macrotrends.net".*
 
-"www.macrotrends.net".
-WTI Crude Oil Prices - 10 Year Daily Chart
+3. **WTI Crude Oil Prices - 10 Year Daily Chart**
+*"www.macrotrends.net".*
 
-https://datahub.io/collections/stock-market-data
+4. **Standard and Poor's (S&P) 500 Index Data**
 DataHub.io
-Standard and Poor's (S&P) 500 Index Data
+*https://datahub.io/collections/stock-market-data*
 
-Harvard Business School
-https://www.hbs.edu/behavioral-finance-and-financial-stability/data/banking-system/Pages/default.aspx
-Global Financial Crisis
+
+5. Harvard Business School
+*https://www.hbs.edu/behavioral-finance-and-financial-stability/data/banking-system/Pages/default.aspx*
+**Global Financial Crisis**
