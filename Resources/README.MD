@@ -4,8 +4,20 @@ Data Sources![alt text](https://thumbs.dreamstime.com/z/algorithm-abstract-77907
 
 **Juan M. Pacheco**
 *Branch Juan* 
+**https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/tree/Juan**
+**README.MD**
+**https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/Juan/Resources/README.MD**
 *Role:* Circle 
 Segment 1. I also worked with the team on different meetings via slack, zoom, email and text.
+
+Description:
+I investigated the sources, downloaded the datasets, created test data, created logical ERD, db PostgreSQL and loaded test data and placed it all under Resources Master Branch. 
+
+Juan's branch has the Resources folder with ERD as well. Below the sources.
+*https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/tree/Juan/Resources*
+
+
+
 
 1. **Energy Information Administration**
 *http://www.eia.gov/oil_gas/petroleum/data_publications/wrgp/mogas_history.html*
