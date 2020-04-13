@@ -1,6 +1,12 @@
 # Data Analytics
 Oil vs Dollar Value
 Data Sources![alt text](https://thumbs.dreamstime.com/z/algorithm-abstract-7790742.jpg)
+
+**Juan M. Pacheco**
+*Branch Juan* 
+*Role:* Circle 
+Segment 1. I also worked with the team on different meetings via slack, zoom, email and text.
+
 1. **Energy Information Administration**
 *http://www.eia.gov/oil_gas/petroleum/data_publications/wrgp/mogas_history.html*
 **Data 4: Midgrade Conventional**
