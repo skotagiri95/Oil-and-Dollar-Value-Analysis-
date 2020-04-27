@@ -5,6 +5,8 @@ Data Sources![alt text](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmiro
 This file is maintained by the Team Oil vs Dollar group for the purpose of calculating the correlation between oil prices and the U.S. dollar value.
 The correlation between oil prices and the value of the dollar will also examine how external factors such as elections, natural disasters and pandemics will impact oil prices and by association, the value of the dollar. 
 
+Machine Learning:
+**https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/tree/master/LINEAR%20REGRESSION_OIL**
 
 *Master Brach* 
 *Braches:* 
