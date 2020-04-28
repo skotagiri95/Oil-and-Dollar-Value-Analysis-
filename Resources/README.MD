@@ -37,3 +37,6 @@ DataHub.io
 5. Harvard Business School
 *https://www.hbs.edu/behavioral-finance-and-financial-stability/data/banking-system/Pages/default.aspx*
 **Global Financial Crisis**
+
+## Schlalchemy 
+Using join to query data in the tables, analysis
