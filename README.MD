@@ -52,3 +52,11 @@ https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/LINEAR
 ## Dashboard
 Tableau Oil vs Gasoline Linear Regresion Dashboard interactive on Month and Year
 https://public.tableau.com/views/OilAnalysis_15884725810310/Dashboard?:display_count=y&publish=yes&:origin=viz_share_link
+
+**Describe Trend Line**
+![alt text](https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/Resources/Describe%20Oil%20TrendLine.png)
+
+**Describe Model Line**
+![alt text](https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/Resources/Describe%20Oil%20Trend%20Model.png)
+
+
