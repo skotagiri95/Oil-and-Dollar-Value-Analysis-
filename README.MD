@@ -41,3 +41,14 @@ DataHub.io
 5. Harvard Business School
 *https://www.hbs.edu/behavioral-finance-and-financial-stability/data/banking-system/Pages/default.aspx*
 **Global Financial Crisis**
+
+## Sqlalchemy 
+Using join to query data in the tables, analysis
+
+## ML 
+Weekly Oil vs Gasoline Linear Regresion Model
+https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/LINEAR%20REGRESSION_OIL/OIL%20ML-Weekly.ipynb
+
+## Dashboard
+Tableau Oil vs Gasoline Linear Regresion Dashboard interactive on Month and Year
+https://public.tableau.com/views/OilAnalysis_15884725810310/Dashboard?:display_count=y&publish=yes&:origin=viz_share_link
