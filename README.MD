@@ -50,7 +50,9 @@ Weekly Oil vs Gasoline Linear Regresion Model
 https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/LINEAR%20REGRESSION_OIL/OIL%20ML-Weekly.ipynb
 
 ## Dashboard
-Tableau Oil vs Gasoline Linear Regresion Dashboard interactive on Month and Year
+**Tableau Oil vs Gasoline Linear Regresion Dashboard interactive on Month and Year**
+![alt text](https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/Resources/Tableau%20Oil%20Analysis%20Dashboard.png)
+
 https://public.tableau.com/views/OilAnalysis_15884725810310/Dashboard?:display_count=y&publish=yes&:origin=viz_share_link
 
 **Describe Trend Line**
