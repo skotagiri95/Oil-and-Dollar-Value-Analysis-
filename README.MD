@@ -49,6 +49,23 @@ Using join to query data in the tables, analysis
 Entity Relashionship Diagram (ERD)
 ![alt text](https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/Resources/OilERDDiagram.png)
 
+## Presentations
+**Segment 1:**
+*https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/UCB%20Segment%201%20Final%20Project%20Presentation%20.pdf*
+
+**Segment 2:**
+Dashboard:
+*https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/UCB%20SEGMENT%202-Oil%20and%20Dollar%20Value%20Analysis%20Dashboard.pdf*
+
+ML:
+*https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/UCB%20SEGMENT%202-%20MACHINE%20LEARNING.pdf*
+
+**Segment 3:**
+*https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/UCB%20Segment3Final%20Project%20Presentation%20.pdf*
+
+**Segment 4:**
+*https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/UCB%20Data%20Analytics%20Bootcamp%20Pitch.pptx*
+
 ## ML 
 Weekly Oil vs Gasoline Linear Regresion Model
 https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/LINEAR%20REGRESSION_OIL/OIL%20ML-Weekly.ipynb
