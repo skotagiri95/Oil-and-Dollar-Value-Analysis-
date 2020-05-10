@@ -54,7 +54,10 @@ Entity Relashionship Diagram (ERD)
 *https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/UCB%20Segment%201%20Final%20Project%20Presentation%20.pdf*
 
 **Segment 2:**
+Dashboard:
 *https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/UCB%20SEGMENT%202-Oil%20and%20Dollar%20Value%20Analysis%20Dashboard.pdf*
+
+ML:
 *https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/blob/master/UCB%20SEGMENT%202-%20MACHINE%20LEARNING.pdf*
 
 **Segment 3:**
