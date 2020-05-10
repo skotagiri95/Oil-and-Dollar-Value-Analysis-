@@ -6,3 +6,4 @@ config.txt
 test.py
 test.exe
 test2.py
+.DS_Store
