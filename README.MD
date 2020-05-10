@@ -17,9 +17,12 @@ Machine Learning:
 **Juan - Juan M. Pacheco Nájar**
 *Role:* Circle 
 
-
 *Repository:*
 **https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/**
+**README.MD**
+
+*Google Slides Presentation"
+**docs.google.com/presentation/d/16hNtvrhtdxZFnWzaExROaLSNE727WatZV_IeYfpbAK0/edit#slide=id.g76e9fc699e_0_0**
 **README.MD**
 
 *Data Sources:*
