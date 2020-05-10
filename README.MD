@@ -23,7 +23,6 @@ Machine Learning:
 
 Google Slides Presentation
 **docs.google.com/presentation/d/16hNtvrhtdxZFnWzaExROaLSNE727WatZV_IeYfpbAK0/edit#slide=id.g76e9fc699e_0_0**
-**README.MD**
 
 *Data Sources:*
 1. **Energy Information Administration**
