@@ -15,6 +15,8 @@ Machine Learning:
 **Rita - Rita Ramos** 
 *Role:* Triangle
 **Juan - Juan M. Pacheco Nájar**
+*https://github.com/skotagiri95/Oil-and-Dollar-Value-Analysis-/tree/Juan*
+
 *Role:* Circle 
 
 *Repository:*
